@@ -7,6 +7,7 @@
 *                           |FAPass
 *                                      |FAInitChek
 *                                               |FAEND
+* けんちゃんの作業
 */
 #define FLAddress 34   //アドレス
 #define FLPrivate 51   //秘密鍵
